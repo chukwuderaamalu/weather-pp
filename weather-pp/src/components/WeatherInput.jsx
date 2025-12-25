@@ -4,7 +4,7 @@ import sunnyBg from "../assets/sunnyBg.jpg"
 import cloudyBg from "../assets/cloudyBg.jpg"
 import rainyBg from "../assets/rainyBg.jpg"
 import defaultBg from "../assets/defaultBg.jpg"
-import "./WeatherInput.css"
+import "./components/WeatherInput.css"
 
 export function WeatherInput() {
   const variableRef = useRef(null)
